@@ -1,0 +1,15 @@
+/home/aliaksandr/engenering/.NET-bootcamp/IntroductionApp/bin/Debug/net8.0/IntroductionApp
+/home/aliaksandr/engenering/.NET-bootcamp/IntroductionApp/bin/Debug/net8.0/IntroductionApp.deps.json
+/home/aliaksandr/engenering/.NET-bootcamp/IntroductionApp/bin/Debug/net8.0/IntroductionApp.runtimeconfig.json
+/home/aliaksandr/engenering/.NET-bootcamp/IntroductionApp/bin/Debug/net8.0/IntroductionApp.dll
+/home/aliaksandr/engenering/.NET-bootcamp/IntroductionApp/bin/Debug/net8.0/IntroductionApp.pdb
+/home/aliaksandr/engenering/.NET-bootcamp/IntroductionApp/obj/Debug/net8.0/IntroductionApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/aliaksandr/engenering/.NET-bootcamp/IntroductionApp/obj/Debug/net8.0/IntroductionApp.AssemblyInfoInputs.cache
+/home/aliaksandr/engenering/.NET-bootcamp/IntroductionApp/obj/Debug/net8.0/IntroductionApp.AssemblyInfo.cs
+/home/aliaksandr/engenering/.NET-bootcamp/IntroductionApp/obj/Debug/net8.0/IntroductionApp.csproj.CoreCompileInputs.cache
+/home/aliaksandr/engenering/.NET-bootcamp/IntroductionApp/obj/Debug/net8.0/IntroductionApp.sourcelink.json
+/home/aliaksandr/engenering/.NET-bootcamp/IntroductionApp/obj/Debug/net8.0/IntroductionApp.dll
+/home/aliaksandr/engenering/.NET-bootcamp/IntroductionApp/obj/Debug/net8.0/refint/IntroductionApp.dll
+/home/aliaksandr/engenering/.NET-bootcamp/IntroductionApp/obj/Debug/net8.0/IntroductionApp.pdb
+/home/aliaksandr/engenering/.NET-bootcamp/IntroductionApp/obj/Debug/net8.0/IntroductionApp.genruntimeconfig.cache
+/home/aliaksandr/engenering/.NET-bootcamp/IntroductionApp/obj/Debug/net8.0/ref/IntroductionApp.dll
